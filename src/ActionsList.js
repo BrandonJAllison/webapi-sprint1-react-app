@@ -14,7 +14,7 @@ const div ={
     
 }
 
-class FriendsList extends Component{
+class ActionsList extends Component{
     constructor(props){
         super(props);
         this.state = {
@@ -40,4 +40,4 @@ class FriendsList extends Component{
 
 }
 
-export default FriendsList;
+export default ActionsList;
